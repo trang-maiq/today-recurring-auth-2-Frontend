@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "announcementMessage": "Register before September 30 and get a 20% discount!",
+        "announcementTitle": "Special Promo",
+        "eventDescription": "TechMeetUp 2025 is on October 12 – 14. Don't miss out!",
+        "linkText": "Register now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter to receive the latest updates, news, and exclusive offers straight to your inbox.",
+        "emailLabel": "Enter your email address",
+        "heading": "Stay Updated with Our Latest News"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "AI Generated Header",
+  "subtitle": "AI Generated Subtitle"
+}
